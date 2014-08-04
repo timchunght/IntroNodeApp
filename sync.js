@@ -1,5 +1,4 @@
-
 console.log("Node starting...");
-var fs = require('fs'); // Make a note on what this is
+var fs = require('fs');
 // console.log(fs);
-console.log(fs.readFileSync('./file1.txt')); // FREEZE
+// console.log(fs.readFileSync('./file1.txt')); // FREEZE
